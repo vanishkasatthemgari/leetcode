@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/vanishkasatthemgari/leetcode/tree/master/0605-can-place-flowers) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/vanishkasatthemgari/leetcode/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
