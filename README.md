@@ -36,4 +36,5 @@
 | [1390-average-selling-price](https://github.com/vanishkasatthemgari/leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/vanishkasatthemgari/leetcode/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/vanishkasatthemgari/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vanishkasatthemgari/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
