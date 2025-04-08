@@ -29,4 +29,5 @@
 |  |
 | ------- |
 | [1135-customers-who-bought-all-products](https://github.com/vanishkasatthemgari/leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1415-students-and-examinations](https://github.com/vanishkasatthemgari/leetcode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
