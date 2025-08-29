@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vanishkasatthemgari/leetcode/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/vanishkasatthemgari/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vanishkasatthemgari/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -43,4 +44,8 @@
 | [1773-percentage-of-users-attended-a-contest](https://github.com/vanishkasatthemgari/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/vanishkasatthemgari/leetcode/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vanishkasatthemgari/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vanishkasatthemgari/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
